@@ -5,7 +5,7 @@
 [link](https://www.youtube.com/watch?v=wHZCYi1K664)
 
 ### Output
-![](my extension.PNG)
+![](https://github.com/priyadarshu/priyadarshu_launcher/blob/master/my%20extension.PNG)
 
 #### Link to my Blog about the steps
 [Link In Progress]()
