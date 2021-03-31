@@ -1,6 +1,6 @@
 #### Priyadarshu Launcher_Browser_Extension
 - This extension is created for personal use 
-- The icons are linked to the socials - Youtube, Github, Twitter, Linkedin, pintrest, hashnode
+- The icons are linked to the socials -  Github, Twitter, Linkedin, pintrest, medium, gmail
 - This is with reference to ** Build & Publish a Custom Google Chrome Extension** by **Traversy Media**
 [link](https://www.youtube.com/watch?v=wHZCYi1K664)
 
